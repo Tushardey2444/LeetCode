@@ -48,4 +48,10 @@ class Solution1 {
         }
         return p_ans;
     }
+
+}
+class practice{
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
